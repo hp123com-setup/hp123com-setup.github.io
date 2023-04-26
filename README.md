@@ -1,6 +1,8 @@
 # hp123.com/setup
 
+
 [![hp123.com/setup](start-now.gif)](http://123pri.s3-website-us-west-1.amazonaws.com)
+
 
 
 hp printers are among the most straightforward printing machines available within the market, which is Well compatible with PC. 123 Hp Printers are documented for its quality, and their services provide for Home users, small office users, and even for commercial purpose users. Once you are buying a replacement Hp printer, you've got first to unbox it and connect it with your PC. Then only ready to "> we will able to print.
