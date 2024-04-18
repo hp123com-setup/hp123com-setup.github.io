@@ -1,7 +1,7 @@
 # hp123.com/setup
 
 
-[![hp123.com/setup](start-now.gif)](http://123pri.s3-website-us-west-1.amazonaws.com)
+[![hp123.com/setup](start-now.gif)](https://hp.printredir.com)
 
 
 
